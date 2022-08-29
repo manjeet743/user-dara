@@ -2,7 +2,7 @@
 print_r($_POST);
 print_r($_FILES['pic']);
 
-
+//ttt
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
